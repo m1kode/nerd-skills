@@ -1,0 +1,11 @@
+{
+  "name": "nerd-skills",
+  "displayName": "Nerd Skills",
+  "version": "0.1.0",
+  "description": "Skills for going deep on the small stuff. Currently: vinyl pressing quality lookup.",
+  "author": { "name": "Mike Jarrett", "url": "https://github.com/m1kode" },
+  "homepage": "https://github.com/m1kode/nerd-skills",
+  "repository": "https://github.com/m1kode/nerd-skills",
+  "license": "MIT",
+  "keywords": ["vinyl", "records", "discogs", "music", "reference"]
+}

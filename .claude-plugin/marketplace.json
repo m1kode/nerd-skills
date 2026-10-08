@@ -1,0 +1,14 @@
+{
+  "name": "nerd-skills",
+  "description": "Mike Jarrett's nerd skills: deep-dive helpers for hobbyist rabbit holes.",
+  "owner": { "name": "Mike Jarrett", "url": "https://github.com/m1kode" },
+  "plugins": [
+    {
+      "name": "nerd-skills",
+      "source": ".",
+      "description": "Judge vinyl pressing quality from a barcode, Discogs link or shop URL before you buy.",
+      "category": "reference",
+      "tags": ["vinyl", "records", "discogs", "music"]
+    }
+  ]
+}
